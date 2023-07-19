@@ -7,7 +7,7 @@
 
 ### Skills and Tools
 
-<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img align="left" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"><br>
+<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img align="left" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"><br>
 
 
 
@@ -33,11 +33,3 @@
   - Anomaly Detection
   - Industrial AI
   - Deep Learning
-
------
-
-### Contact
-
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/Introduction-dced80387a714718889dd8505c520ffd?pvs=4"/><br>
-
-<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sxs770@gmail.com"/>
