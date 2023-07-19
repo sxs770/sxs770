@@ -1,7 +1,10 @@
-### Junhyeok Choi👋
-안녕하세요! Machine learning과 Deep learning을 공부하고 있는 학생입니다.
+### Junhyeok Choi🌱
 
-[![sxs770](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+:briefcase: [Notion](https://www.notion.so/Introduction-dced80387a714718889dd8505c520ffd?pvs=4)     
+
+:memo: [Curriculum Vitae](https://google.com)     
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sxs770)](https://solved.ac/sxs770/)
 
 <!--
 **sxs770/sxs770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
